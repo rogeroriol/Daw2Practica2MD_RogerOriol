@@ -18,3 +18,13 @@
 
 * * *
 * * *
+
+> ## Experencià Laboral
+> > __10/2018 – 02/2019__  Tècnic Informàtic - _InfoUnió S.L Lleida_
+
+> > __06/2019 – 06/2019__ Auxiliar Administratiu - _Frulesa, Vilanv. de la Barca_
+
+> > __06/2020 – 09/2020__ Tècnic Informàtic - _ActelGrup, Tèrmens / Lleida_
+
+* * *
+* * *
