@@ -10,6 +10,7 @@
 * * *
 
 ## **Educació**
+
 >  2013-2017 - Educació Secundaria Obligatoria
 
 >  2017-2019 - CFGM  Sistemes microinformatics i Xarxes
@@ -19,12 +20,13 @@
 * * *
 * * *
 
- ## **Experencià Laboral**
->  __10/2018 – 02/2019__  Tècnic Informàtic - _InfoUnió S.L Lleida_
+## **Experencià Laboral**
 
->  __06/2019 – 06/2019__ Auxiliar Administratiu - _Frulesa, Vilanv. de la Barca_
+>  __10/2018 – 02/2019  Tècnic Informàtic__ - _InfoUnió S.L Lleida_
 
->  __06/2020 – 09/2020__ Tècnic Informàtic - _ActelGrup, Tèrmens / Lleida_
+>  __06/2019 – 06/2019 Auxiliar Administratiu__ - _Frulesa, Vilanv. de la Barca_
+
+>  __06/2020 – 09/2020 Tècnic Informàtic__ - _ActelGrup, Tèrmens / Lleida_
 
 * * *
 * * *
